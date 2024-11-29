@@ -1,0 +1,6 @@
+data/*
+!data/README.md
+
+deno.lock
+
+.env
