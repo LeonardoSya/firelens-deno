@@ -34,7 +34,7 @@ const upgradeFirePointsData = async () => {
 };
 
 const upgradeCron = new Cron(
-  "*/30 * * * *",
+  "*/60 * * * *",
   {
     timezone: "Asia/Shanghai",
     name: "system-cron",
