@@ -1,6 +1,6 @@
 <p align="center">
   <strong>🔥 Firelens-Deno<br /></strong>
-  <strong>A Deno-based system that automatically downloads, processes and stores global fire points data from NASA, enriched with NDVI (Normalized Difference Vegetation Index) information.</strong>
+  <strong>A Deno-based backend service that provides fire points data for the FireLens Next.js application. This service automatically downloads, processes and stores global fire points data from NASA, enriched with NDVI (Normalized Difference Vegetation Index) information.</strong>
 </p>
 
 ## 🚀 Getting Started
