@@ -16,8 +16,7 @@ git clone https://github.com/LeonardoSya/firelens-deno
 cd firelens-deno
 deno task start
 ```
-- 👋 Download [ndvi2407.tif](https://drive.usercontent.google.com/download?id=19CYwVeoVvE9ZM1VCxUu24Y-GwmQdu6aB&export=download&authuser=0&confirm=t&uuid=8333d860-57a3-4830-8700-c02e2c3b280f&at=AN_67v2-iTw3mFJgY7yJKOl9T5O9%3A1727417613345
-) and make sure to put `ndvi2407.tif` in `data/`.
+- 👋 Download [ndvi2407.tif](https://drive.google.com/file/d/10kXJ_bZzjbioaZp3gPqhe46PHIIF8ySA/view?usp=drive_link) and make sure to put `ndvi2407.tif` in `data/`.
 - 🧷 Create a .env file in the root directory with the following variables:
 ```bash
 POSTGRES_USER=your_user
