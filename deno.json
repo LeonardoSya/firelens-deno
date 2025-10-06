@@ -9,5 +9,9 @@
     "@std/csv": "jsr:@std/csv@^1.0.4",
     "@std/dotenv": "jsr:@std/dotenv@^0.225.2",
     "geotiff": "npm:geotiff"
+  },
+  "compilerOptions": {
+    "lib": ["deno.window"],
+    "strict": true
   }
 }

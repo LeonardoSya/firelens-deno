@@ -1,4 +1,7 @@
-import { load } from "@std/dotenv";
+// @ts-ignore: Cannot find module 'https://deno.land/std@0.224.0/dotenv/mod.ts'
+import { load } from "https://deno.land/std@0.224.0/dotenv/mod.ts"; // Adjust version as needed
+
+// @ts-ignore: Cannot find module 'https://deno.land/x/croner@7.0.5/dist/croner.js'
 import { Cron } from "https://deno.land/x/croner@7.0.5/dist/croner.js";
 import { Download } from "./services/download.ts";
 import { Process } from "./services/process.ts";
